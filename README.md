@@ -1,6 +1,6 @@
 ## 本资源包适用于LoliPickaxe1.2.16a及以上
 
-:warning:建议解压缩该资源包使用，以免与i18n汉化资源包冲突
+:warning:建议解压缩该资源包使用
 
 ### 1.添加自定义萝莉卡片
 
@@ -29,6 +29,7 @@
 ### 4.向下兼容LoliPickaxe-1.2.12及以下
 
 删除`\assets\lolipickaxe\lang\zh_CN.lang`文件
+⚠️解压缩使用
 
 ### 5.向上兼容1.16.5版本
 
