@@ -1,5 +1,7 @@
 ## 本资源包适用于LoliPickaxe1.2.16a及以上
 
+:warning:建议解压缩该资源包使用，以免与i18n汉化资源包冲突
+
 ### 1.添加自定义萝莉卡片
 
 将图片文件放到`\assets\lolipickaxe\lolicards`里
@@ -27,8 +29,6 @@
 ### 4.向下兼容LoliPickaxe-1.2.12及以下
 
 删除`\assets\lolipickaxe\lang\zh_CN.lang`文件
-
-原因在于zh_CN.lang为lolipickaxe-1.2.16a提取;1.2.12版本的en_us.lang缺少内容导致触发minecraft资源包修正操作(卸载全部第三方资源包)
 
 ### 5.向上兼容1.16.5版本
 
