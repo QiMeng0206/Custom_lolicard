@@ -30,6 +30,7 @@
 
 删除`\assets\lolipickaxe\lang\zh_CN.lang`文件
 ⚠️解压缩使用
+:warning:删除提示文件`\assets\lolipickaxe\lolicords\png图片放这里.txt`
 
 ### 5.向上兼容1.16.5版本
 
